@@ -110,7 +110,7 @@ Merhaba! Ben **Enes Demir**, 19 yaşında **Siber Güvenlik Araştırmacısı**,
   <a href="https://linkedin.com/in/enes-demir-8478a83a3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/enesdemir"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://medium.com/@enesdemir"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://tryhackme.com/p/enesdemir"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+  <a href="https://tryhackme.com/p/demir.enes0227"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
 </p>
 
 ---
