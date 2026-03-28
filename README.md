@@ -1,116 +1,127 @@
-<!--
-  GitHub Profil README | Enes Demir
-  Tasarım: Modern, Detaylı, Profesyonel
--->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=2D9C7C&center=true&vCenter=true&width=600&lines=Merhaba%2C+Ben+Enes+Demir;Siber+G%C3%BCvenlik+Ara%C5%9Ft%C4%B1rmac%C4%B1s%C4%B1;Yapay+Zeka+Geli%C5%9Ftiricisi;Full+Stack+Developer" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2D9C7C&center=true&vCenter=true&width=600&lines=Merhaba%2C+Ben+Enes+Demir!;Siber+Güvenlik+Uzmanı+Adayı;Yapay+Zeka+ve+Web+Geliştirici" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Yaş-19-2D9C7C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Şehir-Gaziantep-2D9C7C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Deneyim-3%20Yıl-2D9C7C?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=enesdemir&label=Ziyaretçi&color=2D9C7C&style=flat-square" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=efe&label=Profil+Görüntülenme&color=2D9C7C&style=flat-square" alt="Profil ziyaretçi sayacı" />
-  <img src="https://img.shields.io/github/followers/efe?label=Takipçi&style=flat-square&color=2D9C7C" alt="GitHub takipçi" />
-  <img src="https://img.shields.io/github/stars/efe?label=Yıldız&style=flat-square&color=2D9C7C" alt="GitHub yıldız" />
-</p>
 
 ---
 
-## 🧑‍💻 Hakkımda
+## 👨‍💻 Hakkımda
 
-Merhaba! Ben **Enes Demir**, 19 yaşında bir **siber güvenlik araştırmacısı**, **yapay zeka meraklısı** ve **fullstack geliştiriciyim**.  
-Kendimi sürekli geliştirmeyi, yeni teknolojileri keşfetmeyi ve öğrendiklerimi projelere dökmeyi seviyorum.  
-Amacım, **siber güvenlik** alanında uzmanlaşarak hem bireysel hem de kurumsal düzeyde güvenli dijital dünyalar inşa etmek.
+Merhaba! Ben **Enes Demir**, 19 yaşında **Siber Güvenlik Araştırmacısı**, **Yapay Zeka Geliştiricisi** ve **Full Stack Developer**'ım.
 
-- 🌍 Gaziantep / Türkiye  
-- 🎓 BTK, IBM, GASMEK sertifikalı  
-- 🔐 **Siber Güvenlik** | 🤖 **Yapay Zeka** | 🌐 **Web Geliştirme**  
-- 📫 Bana ulaş: [enes@example.com](mailto:enes@example.com)
+| Özellik | Detay |
+|---------|-------|
+| 🎓 **Eğitim** | BTK Akademi, IBM, GASMEK |
+| 🔐 **Uzmanlık** | Siber Güvenlik, Yapay Zeka, Web Geliştirme |
+| 🌱 **Öğreniyorum** | OSCP, Reinforcement Learning, Cloud Security |
+| 🎯 **Hedef** | Türkiye'nin önde gelen siber güvenlik uzmanı |
 
 ---
 
-## 🎓 Eğitim & Sertifikalar
+## 🎓 Sertifikalar
 
 | Sertifika | Kurum | Yıl |
-|----------|-------|-----|
-| **Siber Güvenlik Temelleri** | BTK Akademi | 2024 |
-| **Yapay Zeka ile Kodlama** | IBM | 2023 |
-| **Siber Güvenlik Uzmanlığı** | GASMEK | 2024 |
-| **Web Geliştirme (PHP & MySQL)** | GASMEK | 2023 |
+|-----------|-------|-----|
+| Siber Güvenlik Temel Eğitimi | BTK Akademi | 2026 |
+| Yapay Zeka ile Kodlama | IBM | 2026 |
+| Python Programlama | GASMEK | 2026 |
+| Web Geliştirme | GASMEK | 2026 |
 
 ---
 
-## 🛠️ Yetenekler & Teknolojiler
-
-| Kategori | Teknolojiler |
-|----------|--------------|
-| **Programlama Dilleri** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Yapay Zeka & ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
-| **Siber Güvenlik** | ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white) |
-| **Veritabanı** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| **Araçlar & Platformlar** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-
----
-
-## 📈 GitHub İstatistiklerim
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=efe&show_icons=true&theme=merko&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efe&layout=compact&theme=merko&hide_border=true" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=efe&theme=merko&hide_border=true" />
-</div>
-
----
-
-## 🚀 Projelerim
-
-| Proje | Açıklama | Teknolojiler |
-|-------|----------|--------------|
-| **PhishGuard** | Phishing tespit sistemi (makine öğrenmesi tabanlı) | Python, Scikit-learn, Flask |
-| **DeepFake Detector** | Sahte videoları tespit eden yapay zeka modeli | TensorFlow, OpenCV, Keras |
-| **CyberLab** | Siber güvenlik laboratuvarı (sanal ortam) | Docker, Kali Linux, Metasploit |
-| **Portfolio Site** | Kişisel web sitem | HTML, CSS, JavaScript, PHP |
-
----
-
-## 🎯 Şu Anda Üzerinde Çalıştıklarım
-
-- 🧠 **Yapay Zeka ile Ağ Anomalisi Tespiti**
-- 🔐 **Siber Güvenlik Farkındalık Platformu** (Eğitim içerikli web uygulaması)
-- 🌐 **Modern Portfolio Sitesi** (Fullstack + AI asistan)
-
----
-
-## 🤝 Bağlantılar & Sosyal Medya
+## 🛠️ Teknolojiler
 
 <p align="center">
-  <a href="https://github.com/efe"><img src="https://img.shields.io/badge/GitHub-efe-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/efe"><img src="https://img.shields.io/badge/LinkedIn-Enes%20Demir-0077B5?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://twitter.com/efe"><img src="https://img.shields.io/badge/Twitter-@efe-1DA1F2?style=for-the-badge&logo=twitter" /></a>
-  <a href="https://medium.com/@efe"><img src="https://img.shields.io/badge/Medium-Enes%20Demir-000000?style=for-the-badge&logo=medium" /></a>
-  <a href="mailto:enes@example.com"><img src="https://img.shields.io/badge/E--posta-enes%40example.com-D14836?style=for-the-badge&logo=gmail" /></a>
+  <img src="https://skillicons.dev/icons?i=py,js,php,html,css,react,nodejs,flask,mysql,git,docker,linux,tensorflow" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p>
 
 ---
 
-## ⚡ İlgi Alanlarım
+## 🚀 Projeler
 
-- 🤖 **Yapay Zeka & Deep Learning** – Modeller eğitmek, veri analizi yapmak
-- 🔐 **Siber Güvenlik** – Penetrasyon testi, ağ güvenliği, zafiyet analizi
-- 🌐 **Web Geliştirme** – Fullstack projeler, modern frontend & backend
-- 📊 **Veri Bilimi** – Büyük veri, görselleştirme, otomasyon
+### 🔐 PhishGuard AI
+> Makine öğrenmesi ile phishing tespiti | %98.7 doğruluk
+- Python, Scikit-learn, Flask, Pandas
+
+### 🧠 DeepFake Detector
+> Derin öğrenme ile sahte video tespiti | %94.3 doğruluk
+- TensorFlow, Keras, OpenCV, Flask
+
+### 🛡️ CyberLab
+> Docker tabanlı siber güvenlik laboratuvarı | 1.2k+ indirme
+- Docker, Kali Linux, Metasploit, Wireshark
+
+### 📊 Network Anomaly Detector
+> Yapay zeka ile ağ trafiği analizi | 10.000 pkt/sn
+- Python, FastAPI, MongoDB, Scikit-learn
+
+## 📈 GitHub İstatistikleri
+
+<p align="center">
+  <!-- Genel GitHub İstatistikler -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=enesdemir&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" alt="" />
+
+  <!-- En Çok Kullanılan Diller -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesdemir&layout=compact&theme=radical&hide_border=false" alt="" />
+</p>
+
+<p align="center">
+  <!-- Günlük Kodlama Streak’i -->
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=enesdemir&theme=radical&hide_border=false" alt="" />
+
+  <!-- GitHub Trophy Ödülleri -->
+  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=enesdemir&theme=radical&no-frame=true&row=2&column=4" alt="" />
+</p>
+
+<p align="center">
+  <i>“Sürekli çalış, öğren ve açık kaynak dünyasında iz bırak 🚀”</i>
+</p>
+
+## 📅 Aktivite Grafiği
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=enesdemir&theme=react-dark&bg_color=0D1117&color=2D9C7C&line=2D9C7C&point=FFFFFF&hide_border=true" />
+</p>
+
+
+
+## 🌟 Bağlantılar
+
+<p align="center">
+  <a href="https://github.com/enesdemir027"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/enes-demir-8478a83a3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/enesdemir"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://medium.com/@enesdemir"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://tryhackme.com/p/enesdemir"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🧠 Vizyonum
+<p align="center">
+  📧 demir.enes0227@gmail.com
+</p>
 
-> *“Teknolojiyi sadece kullanan değil, güvenliğini sağlayan ve geliştiren bireyler yetişmeli.”*
-
-Hedefim, **siber güvenlik ve yapay zeka** kesişiminde yenilikçi çözümler üretmek ve bu alanda Türkiye’nin önde gelen uzmanlarından biri olmak.
-
----
+<p align="center">
+  <i>“Teknolojiyi sadece kullanan değil, güvenliğini sağlayan bireyler yetişmeli.”</i>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2D9C7C&height=100&section=footer" />
