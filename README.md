@@ -32,7 +32,7 @@ Merhaba! Ben **Enes Demir**, 19 yaşında **Siber Güvenlik Araştırmacısı**,
 | Siber Güvenlik Temel Eğitimi | BTK Akademi | 2026 |
 | Yapay Zeka ile Kodlama | IBM | 2026 |
 | Python Programlama | GASMEK | 2026 |
-| Web Geliştirme | GASMEK | 2026 |
+| Web Geliştirme | BTK Akademi | 2026 |
 
 ---
 
